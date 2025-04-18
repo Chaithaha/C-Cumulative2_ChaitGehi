@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chait\\Desktop\\CSharp-Cumulative2-main\\CSharp-Cumulative2-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4281198-6141-4486-8217-9FC922BCA090}|Cumulative01\\Cumulative01.csproj|c:\\users\\chait\\desktop\\csharp-cumulative2-main\\csharp-cumulative2-main\\cumulative01\\controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4281198-6141-4486-8217-9FC922BCA090}|Cumulative01\\Cumulative01.csproj|solutionrelative:cumulative01\\controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4281198-6141-4486-8217-9FC922BCA090}|Cumulative01\\Cumulative01.csproj|c:\\users\\chait\\desktop\\csharp-cumulative2-main\\csharp-cumulative2-main\\cumulative01\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4281198-6141-4486-8217-9FC922BCA090}|Cumulative01\\Cumulative01.csproj|solutionrelative:cumulative01\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4281198-6141-4486-8217-9FC922BCA090}|Cumulative01\\Cumulative01.csproj|c:\\users\\chait\\desktop\\csharp-cumulative2-main\\csharp-cumulative2-main\\cumulative01\\views\\teacherpage\\deleteconfirmresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4281198-6141-4486-8217-9FC922BCA090}|Cumulative01\\Cumulative01.csproj|solutionrelative:cumulative01\\views\\teacherpage\\deleteconfirmresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4281198-6141-4486-8217-9FC922BCA090}|Cumulative01\\Cumulative01.csproj|c:\\users\\chait\\desktop\\csharp-cumulative2-main\\csharp-cumulative2-main\\cumulative01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4281198-6141-4486-8217-9FC922BCA090}|Cumulative01\\Cumulative01.csproj|solutionrelative:cumulative01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4281198-6141-4486-8217-9FC922BCA090}|Cumulative01\\Cumulative01.csproj|c:\\users\\chait\\desktop\\csharp-cumulative2-main\\csharp-cumulative2-main\\cumulative01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4281198-6141-4486-8217-9FC922BCA090}|Cumulative01\\Cumulative01.csproj|solutionrelative:cumulative01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4281198-6141-4486-8217-9FC922BCA090}|Cumulative01\\Cumulative01.csproj|c:\\users\\chait\\desktop\\csharp-cumulative2-main\\csharp-cumulative2-main\\cumulative01\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4281198-6141-4486-8217-9FC922BCA090}|Cumulative01\\Cumulative01.csproj|solutionrelative:cumulative01\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4281198-6141-4486-8217-9FC922BCA090}|Cumulative01\\Cumulative01.csproj|c:\\users\\chait\\desktop\\csharp-cumulative2-main\\csharp-cumulative2-main\\cumulative01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4281198-6141-4486-8217-9FC922BCA090}|Cumulative01\\Cumulative01.csproj|solutionrelative:cumulative01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\Chait\\Desktop\\CSharp-Cumulative2-main\\CSharp-Cumulative2-main\\Cumulative01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+              "RelativeDocumentMoniker": "Cumulative01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\Chait\\Desktop\\CSharp-Cumulative2-main\\CSharp-Cumulative2-main\\Cumulative01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+              "RelativeToolTip": "Cumulative01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADjgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T22:19:18.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap.min.css.map",
+              "DocumentMoniker": "C:\\Users\\Chait\\Desktop\\CSharp-Cumulative2-main\\CSharp-Cumulative2-main\\Cumulative01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+              "RelativeDocumentMoniker": "Cumulative01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+              "ToolTip": "C:\\Users\\Chait\\Desktop\\CSharp-Cumulative2-main\\CSharp-Cumulative2-main\\Cumulative01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+              "RelativeToolTip": "Cumulative01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAB1jQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T22:19:13.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chait\\Desktop\\CSharp-Cumulative2-main\\CSharp-Cumulative2-main\\Cumulative01\\Program.cs",
+              "RelativeDocumentMoniker": "Cumulative01\\Program.cs",
+              "ToolTip": "C:\\Users\\Chait\\Desktop\\CSharp-Cumulative2-main\\CSharp-Cumulative2-main\\Cumulative01\\Program.cs",
+              "RelativeToolTip": "Cumulative01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:17:22.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chait\\Desktop\\CSharp-Cumulative2-main\\CSharp-Cumulative2-main\\Cumulative01\\Views\\TeacherPage\\List.cshtml",
+              "RelativeDocumentMoniker": "Cumulative01\\Views\\TeacherPage\\List.cshtml",
+              "ToolTip": "C:\\Users\\Chait\\Desktop\\CSharp-Cumulative2-main\\CSharp-Cumulative2-main\\Cumulative01\\Views\\TeacherPage\\List.cshtml",
+              "RelativeToolTip": "Cumulative01\\Views\\TeacherPage\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T22:17:08.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteConfirmResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chait\\Desktop\\CSharp-Cumulative2-main\\CSharp-Cumulative2-main\\Cumulative01\\Views\\TeacherPage\\DeleteConfirmResult.cshtml",
+              "RelativeDocumentMoniker": "Cumulative01\\Views\\TeacherPage\\DeleteConfirmResult.cshtml",
+              "ToolTip": "C:\\Users\\Chait\\Desktop\\CSharp-Cumulative2-main\\CSharp-Cumulative2-main\\Cumulative01\\Views\\TeacherPage\\DeleteConfirmResult.cshtml",
+              "RelativeToolTip": "Cumulative01\\Views\\TeacherPage\\DeleteConfirmResult.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T22:16:07.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Chait\\Desktop\\CSharp-Cumulative2-main\\CSharp-Cumulative2-main\\Cumulative01\\Models\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "Cumulative01\\Models\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\Chait\\Desktop\\CSharp-Cumulative2-main\\CSharp-Cumulative2-main\\Cumulative01\\Models\\SchoolDbContext.cs",
+              "RelativeToolTip": "Cumulative01\\Models\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:15:54.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherPageController.cs",
+              "DocumentMoniker": "C:\\Users\\Chait\\Desktop\\CSharp-Cumulative2-main\\CSharp-Cumulative2-main\\Cumulative01\\Controllers\\TeacherPageController.cs",
+              "RelativeDocumentMoniker": "Cumulative01\\Controllers\\TeacherPageController.cs",
+              "ToolTip": "C:\\Users\\Chait\\Desktop\\CSharp-Cumulative2-main\\CSharp-Cumulative2-main\\Cumulative01\\Controllers\\TeacherPageController.cs",
+              "RelativeToolTip": "Cumulative01\\Controllers\\TeacherPageController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:13:29.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
