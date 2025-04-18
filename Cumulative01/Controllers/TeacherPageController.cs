@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc.ViewEngines;
 
 //This is the controller that will handle the requests from the teacher page.
 namespace Cumulative01.Controllers
-{
+{   
     //This is the route that    will be used to access the controller.
     public class TeacherPageController : Controller
     {
@@ -178,6 +178,24 @@ namespace Cumulative01.Controllers
         public IActionResult New()
         {
             return View();
+        }
+
+        /// <summary>
+        /// Displays the form for updating a teacher's information
+        /// </summary>
+        /// <param name="id">The ID of the teacher to update</param>
+        /// <returns>The update view with the teacher's current information</returns>
+        public IActionResult Update(int id)
+        {
+            // Use the existing _api instance instead of creating a new controller
+            var teacher = _api.FindTeacher(id);
+
+            if (teacher == null || teacher.TeacherId == 0)
+            {
+                return NotFound();
+            }
+
+            return View(teacher);
         }
     }
 }

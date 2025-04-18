@@ -312,6 +312,67 @@ namespace Cumulative01.Controllers
 
 
         }
+
+        /// <summary>
+        /// Updates an existing teacher's information
+        /// </summary>
+        /// <param name="id">The ID of the teacher to update</param>
+        /// <param name="teacher">The updated teacher information</param>
+        /// <returns>A message indicating success or failure of the update</returns>
+        /// <example>
+        /// PUT /api/UpdateTeacher/5
+        /// Body: {
+        ///   "TeacherFirstName": "John",
+        ///   "TeacherLastName": "Smith",
+        ///   "EmployeeID": "T123",
+        ///   "HireDate": "2023-01-01",
+        ///   "Salary": 75000.00
+        /// }
+        /// </example>
+        [HttpPut]
+        [Route("UpdateTeacher/{id}")]
+        public IActionResult UpdateTeacher(int id, [FromBody] Teacher teacher)
+        {
+            try
+            {
+                MySqlConnection Connection = _context.GetConnection();
+                Connection.Open();
+
+                string SQL = "UPDATE teachers SET " +
+                           "teacherfname = @fname, " +
+                           "teacherlname = @lname, " +
+                           "employeenumber = @empid, " +
+                           "hiredate = @hiredate, " +
+                           "salary = @salary " +
+                           "WHERE teacherid = @id";
+
+                MySqlCommand Command = Connection.CreateCommand();
+                Command.CommandText = SQL;
+
+                Command.Parameters.AddWithValue("@fname", teacher.TeacherFirstName);
+                Command.Parameters.AddWithValue("@lname", teacher.TeacherLastName);
+                Command.Parameters.AddWithValue("@empid", teacher.EmployeeID);
+                Command.Parameters.AddWithValue("@hiredate", teacher.HireDate);
+                Command.Parameters.AddWithValue("@salary", teacher.Salary);
+                Command.Parameters.AddWithValue("@id", id);
+
+                int rowsAffected = Command.ExecuteNonQuery();
+                Connection.Close();
+
+                if (rowsAffected > 0)
+                {
+                    return Ok(new { message = "Teacher updated successfully" });
+                }
+                else
+                {
+                    return NotFound(new { message = "Teacher not found" });
+                }
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = "Error updating teacher", error = ex.Message });
+            }
+        }
     
 
 
